@@ -109,7 +109,7 @@ parameters:
     generate: expression
 
   - name: CLUSTER_NAME
-    description: Name of the geoserver instance. Recommended value - your username
+    description: Name of the minio cluster instance. Recommended value - your username
     displayName: Cluster name
     required: true
 
